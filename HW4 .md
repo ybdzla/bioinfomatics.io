@@ -190,6 +190,7 @@ bwa mem sacCer3.fa THA2.fa > THA2-bwa.sam
 
 ---
 # Genome Browser
+![image](https://github.com/user-attachments/assets/9110a784-5ad0-4d9e-becd-8bd56f661548)
 
 
 
